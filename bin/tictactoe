@@ -2,7 +2,5 @@
 
 require_relative '../config/environment'
 
-<<<<<<< HEAD
-=======
-CLI.new.call
->>>>>>> 65a618dd02739459cc190463af1831f4fcf64544
+
+CLI.new.cal
